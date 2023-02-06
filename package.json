@@ -1,0 +1,19 @@
+{
+  "name": "edgio-gridsome-example",
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "edgio:deploy": "edgio deploy"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "@edgio/cli": "^6.0.5",
+    "@edgio/core": "^6.0.5",
+    "@edgio/devtools": "^6.0.5",
+    "@edgio/prefetch": "^6.0.5"
+  },
+  "repository": "git@github.com:edgio-docs/edgio-gridsome-example.git"
+}
